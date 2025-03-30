@@ -13,6 +13,8 @@
 
 - 🤝 I’m looking for help with **MERN Stack**
 
+- 💬 Ask me about **HTML,CSS, React, Bootstrap, OOP**
+
 - 📫 How to reach me **khalangrevaibhavi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
